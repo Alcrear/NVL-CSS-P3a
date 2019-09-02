@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+   color: #906;
+   background: #CCC;
+   border-color:#999;
+   padding: 50px 50px
+   
+}
+
+p {
+   color: #FFF;
+   background: #906;
+   padding: 50px 50px
+   
+   
+}
+
